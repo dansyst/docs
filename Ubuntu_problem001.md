@@ -56,13 +56,9 @@
 
 ![image-20250106111425499](./Ubuntu_problem001.assets/image-20250106111425499.png)
 
-![image-20250106112122841](./Ubuntu_problem001.assets/image-20250106112122841.png)
 
-### 3. 问题诊断
 
-可以看出‘系统’和‘软件’指代的windows系统数据大部分都在；Ubuntu系统已经被删除了很多数据
 
-![image-20250106112227703](./Ubuntu_problem001.assets/image-20250106112227703.png)
 
 
 
