@@ -4,7 +4,7 @@
 
 # Dansyst Blog<small>2025</small>
 
-> 基于Docsifyjs的个人博客
+> 基于Docsify的个人博客
 
 - 学习记录
 - 生活记录
