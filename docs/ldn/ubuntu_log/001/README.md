@@ -1,7 +1,3 @@
-**目录**
-
-[TOC]
-
 ## Ubuntu 查看磁盘情况
 
 ### 1. 用Ubuntu启动U盘进入Ubuntu安装界面
