@@ -22,18 +22,6 @@
 
 制作完成后会有完成弹窗
 
-#### 详细步骤
-
-- 密码000![img](./windows引导项修复.assets/clip_image002.jpg)![img](./windows引导项修复.assets/clip_image004.jpg)![img](./windows引导项修复.assets/clip_image006.jpg)
-
-- 一键制作![img](./windows引导项修复.assets/clip_image008.jpg)
-
-- 仅制作启动U盘![img](./windows引导项修复.assets/clip_image010.jpg)
-
-- 制作完成后U盘中的软件
-
-  ![img](./windows引导项修复.assets/clip_image016.jpg)
-
 ### 2. 从Bios进入windows系统
 
 之前已经制作过了大白菜U盘，完成了引导项修复
