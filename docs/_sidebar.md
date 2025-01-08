@@ -1,15 +1,15 @@
 <!-- docs/_sidebar.md -->
-- **渐构**
 <!-- 首页介绍 -->
-    - [首页](ldn/)
+- [渐构](ldn/)
+- [**----------------------------------------------------------**](ldn/)
 <!-- 项目1介绍 -->
 <!-- 相对路径默认读取README.md -->
-    - [ubuntu_log](ldn/ubuntu_log/)  
-        - [磁盘管理](/ldn/ubuntu_log/001/ubuntu_problem.md)
-    - [windows_log](ldn/windows_log/)
-        - 系统
-            - [引导项修复](/ldn/windows_log/001/windows引导项修复.md)
-        - 软件安装与激活
-            - [Mathtype](/ldn/windows_log/软件安装与激活/mathtype.md)
+    - **ubuntu_log** 
+<!-- 以下的每一个项目对应一个md文件 -->
+<!-- 之前的目录看着不得劲的原因是：一开始的框架定得太大了，所以要细分，侧边栏主要是用来导航最大的分类，如系统及其子分类，日常的项目是子分类的子集。以后定框架的时候要先定最大分类和最小分类，如系统问题和命令行查看磁盘情况之间还需要一个磁盘管理的类别作为过渡；软件问题和Mathtype之间要加一个软件安装与激活 -->
+        - [系统](/ldn/ubuntu_log/系统目录.md)
+        - [环境](ldn/ubuntu_log/环境目录.md)
+    - **windows_log**
+        - [系统](/ldn/windows_log/系统目录.md)
+        - [软件](/ldn/windows_log/软件目录.md)
 
-- **其他**
