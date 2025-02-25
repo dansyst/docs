@@ -6,7 +6,9 @@
 <!-- 相对路径默认读取README.md -->
 <!-- 以下的每一个项目对应一个md文件 -->
     - **Tool**
-        - [python_script](/ldn/Tool/python_script.md)
+        - [Code_tool](/ldn/Tool/code_tool.md)
+        - [Python_script](/ldn/Tool/python_script.md)
+        - [Matlab_script](/ldn/Tool/matlab_script.md)
     
     - **ML**
         - [scikit-learn](/ldn/ML/scikit-learn.md)

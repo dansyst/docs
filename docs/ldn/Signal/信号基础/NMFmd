@@ -1,0 +1,36 @@
+## NMF 分解子信号
+
+高维空间中学习分类器，将数据映射到更高维的空间中有两种常用的方法：一种为多项式核，在一定阶数内计算原始特征所有可能的多项式；另一种是径向基函数核，即高斯核。
+
+```python
+S = mglearn.datasets.make_signals()
+plt.figure(figsize=(6, 1))
+plt.plots(S, '-')
+plt.xlabel("Time")
+plt.ylabel("Signal")
+
+A = np.random.RandomState(0).uniform(size=(100,3))
+X = np.dot(S, A.T)
+print("Shape of measurements: {}".format(X.shape))
+
+nmf = NMF(n_components=3, random_state=42)
+S_ = nmf.fit_transform(X)
+print("Recovered signal shape: {}".format(S_.shape))
+
+pca = PCA(n_components=3)
+H = pca.fit_ transform(X)
+
+models = [X, S, S_, H]
+names = ['Observations (first three measurements)',
+        'True sources',
+        'NMF recovered signals',
+        'PCA recovered signals']
+
+fig, axes = plt.subplots(4, figsize(8, 4), gridspec_kw={'hspace': .5},
+                        subplot_kw={'xticks': (), 'yticks': ()})
+
+for model, name, ax in zip(models, names, axes):
+    ax.set_title(name)
+    ax.plot(mode[:, :3], '-')
+```
+
