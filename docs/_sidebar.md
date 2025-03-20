@@ -12,8 +12,8 @@
         - [Matlab_script](/ldn/Tool/matlab_script.md)
     
     - **ML**
-        - [scikit-learn](/ldn/ML/scikit-learn.md)
-        - [SWO](/ldn/ML/SWO.md)
+        - [Scikit-learn库](/ldn/ML/scikit-learn.md)
+        - [神经网络](/ldn/ML/NN.md)
 
     - **Signal**
         - [信号基础](/ldn/Signal/信号基础.md)
