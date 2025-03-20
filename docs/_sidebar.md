@@ -6,15 +6,19 @@
 <!-- 相对路径默认读取README.md -->
 <!-- 以下的每一个项目对应一个md文件 -->
     - **Tool**
+        - [Learn](/ldn/Tool/learn.md)
         - [Code_tool](/ldn/Tool/code_tool.md)
         - [Python_script](/ldn/Tool/python_script.md)
         - [Matlab_script](/ldn/Tool/matlab_script.md)
     
     - **ML**
         - [scikit-learn](/ldn/ML/scikit-learn.md)
+        - [SWO](/ldn/ML/SWO.md)
 
     - **Signal**
-        - [信号基础](/ldn/Signal/信号基础目录.md)
+        - [信号基础](/ldn/Signal/信号基础.md)
+        - [通信信号处理基础](/ldn/Signal/通信信号处理基础.md)
+        - [Labview](/ldn/Signal/Labview.md)
     
     - **UbuntuLog** 
         - [目录](/ldn/ubuntu_log/ubuntu_log.md)

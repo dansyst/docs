@@ -6,7 +6,7 @@
 
 ### 基础设置
 
-字体格式：time new roman
+字体格式：Times NewRoman
 
 ![image-20250224100036377](./matlab导出高清图片.assets/image-20250224100036377.png)
 
