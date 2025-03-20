@@ -5,10 +5,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <!-- Theme: vue default -->
-  <!-- link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
   <!-- Theme: Simple Dark -->
   <!-- link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css">
+  <!-- Theme: Dark -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css"> -->
 
 </head>
 <body>
@@ -22,7 +23,7 @@
     window.$docsify = {
       search: 'auto', // 默认值
       coverpage: true,  // 封面
-      onlyCover: true,  // 封面页只显示方面
+      onlyCover: true,  // 封面页只显示封面
       loadSidebar: true,  // 侧边栏
       autoHeader: false,  // 自动设置页面标题
       subMaxLevel: 3,  // 最大显示4层md目录
@@ -51,6 +52,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>  <!--搜索-->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>  <!--字数统计-->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>  <!--复制代码-->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>  <!--Latex math equations-->
 </body>
 </html>
 
