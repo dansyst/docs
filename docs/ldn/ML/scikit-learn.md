@@ -4,6 +4,6 @@
 
 ### 线性模型
 
-- [AdaBoost](scikit-learn/AdaBoost算法.md)
+- [AdaBoost](/scikit-learn/AdaBoost算法.md)
 
 - [逻辑回归]

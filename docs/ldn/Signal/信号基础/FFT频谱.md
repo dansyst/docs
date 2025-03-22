@@ -24,3 +24,8 @@ $n=5$ 表示的为奈奎斯特频率（Nyquist），即，序列 0~5 对应频�
 
 
 
+参考链接：
+
+[信号与系统：快速傅里叶变换FFT中的实际频率（奈奎斯特频率解析）-CSDN博客](https://blog.csdn.net/tyfwin/article/details/89840154)
+
+[使用MATLAB绘制信号的单边谱和双边谱_matlab fft 双边频谱 单边频谱-CSDN博客](https://blog.csdn.net/m0_71343347/article/details/143782706)
