@@ -9,3 +9,8 @@
 ### IEEE
 
 - [IEEE](/ldn/Tool/learn/IEEE.md)
+
+### 编辑器
+
+- [Typora设置](/ldn/Tool/learn/Typora设置.md)
+

@@ -2,7 +2,7 @@
 
 > 针对matlab中信号处理代码的转换
 
-python库: [scipy.signal]([Signal processing (scipy.signal) — SciPy v1.15.2 Manual](https://docs.scipy.org/doc/scipy/reference/signal.html#scipy.signal))
+python库：[Signal processing (scipy.signal) — SciPy v1.15.2 Manual](https://docs.scipy.org/doc/scipy/reference/signal.html#scipy.signal)
 
 
 
@@ -12,4 +12,5 @@ python库: [scipy.signal]([Signal processing (scipy.signal) — SciPy v1.15.2 Ma
 
 
 
-老师推荐：https://www.codeconvert.ai/matlab-to-python-converter   支持各种代码转换，而且几乎是一键转换，需要注意语法问题，如python索引从0开始。
+推荐：https://www.codeconvert.ai/matlab-to-python-converter   支持各种代码转换，而且几乎是一键转换，需要注意语法问题，如python索引从0开始。
+
